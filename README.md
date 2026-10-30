@@ -28,9 +28,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" alt="" /> Featured projects
 
-<p align="center">
-  <a href="https://github.com/acqz520/acqz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=acqz520&repo=acqz&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="acqz" /></a>
-</p>
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| 🌐 [**acqz**](https://github.com/acqz520/acqz) | My personal site and blog · [live](https://acqz.pages.dev) | ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
 
 <div align="center">
 
