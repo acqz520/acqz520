@@ -2,6 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:EC4899,100:8B5CF6&height=200&section=header&text=Robbie&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=acqz%20%C2%B7%20backend%20developer&descAlignY=56&descSize=18&animation=fadeIn" width="100%" alt="Robbie" />
 
+<img src="assets/avatar-blink.gif" width="150" alt="Pixel Robbie blinking" />
+&nbsp;&nbsp;&nbsp;
+<img src="assets/horse-glint.gif" width="150" alt="Pixel horse with shades" />
+
+<img src="assets/hello-banner.gif" width="480" alt="HELLO, I'M ROBBIE · WELCOME TO ACQZ · JAVA & GO" />
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=700&color=F97316&center=true&vCenter=true&random=false&width=560&lines=Hi+there%2C+I'm+Robbie+%F0%9F%91%8B;Backend+developer+%C2%B7+Java+%26+Go;Shipping+things+on+the+edge+%E2%9A%A1;Writing+notes+at+acqz.pages.dev" alt="Typing intro" />
 
 <p>
